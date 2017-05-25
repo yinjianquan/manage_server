@@ -47,13 +47,13 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `phone`, `realName`, `nickName`, `age`, `nativePlace`, `skillTree`, `password`, `sex`, `company`, `github`, `jurisdiction`, `headImg`) VALUES
-(7, 15013795538, '王昭君', '晴天', 20, '汉朝', 'vue,react', '123456', '2', '', 'aaa', '1', 'http://127.0.0.1:7777/images/wangzhaojun.jpg'),
-(97, 15013795539, '胡儒清', '老胡', 37, '广西', 'vue,react,webpack,react,nodejs...', '', '1', '沃土web前端学院', 'https://github.com/huruqing', '活', 'http://127.0.0.1:7777/images/portrait.png'),
-(98, 13812345679, '狄仁杰', '小狄', 18, '宋朝', '', '', '1', '', '', '', 'http://127.0.0.1:7777/images/direnjie.jpg'),
-(108, 13812345671, '诸葛亮', '小猪', 0, '三国', '', '123456', '1', '', '', '', 'http://127.0.0.1:7777/images/zhegeliang.jpg'),
-(109, 13800000000, '黄忠', '老黄', 0, '三国', '', '123456', '1', '', '', '', 'http://127.0.0.1:7777/images/huangzhong.jpg'),
-(110, 15013795536, '虞姬', '小鸡', 20, '西楚', 'vue,react', '123456', '2', '', 'aaa', '1', 'http://127.0.0.1:7777/images/yuji.jpg'),
-(111, 15013795533, '大乔', '三国美女', 20, '三国', 'vue,react', '123456', '2', '', 'aaa', '1', 'http://127.0.0.1:7777/images/daqiao.jpg');
+(7, 15013795538, '王昭君', '晴天', 20, '汉朝', 'vue,react', '123456', '2', '', 'aaa', '1', 'http://www.yinjianquan.cn:7777/images/wangzhaojun.jpg'),
+(97, 15013795539, '胡儒清', '老胡', 37, '广西', 'vue,react,webpack,react,nodejs...', '', '1', '沃土web前端学院', 'https://github.com/huruqing', '活', 'http://www.yinjianquan.cn:7777/images/portrait.png'),
+(98, 13812345679, '狄仁杰', '小狄', 18, '宋朝', '', '', '1', '', '', '', 'http://www.yinjianquan.cn:7777/images/direnjie.jpg'),
+(108, 13812345671, '诸葛亮', '小猪', 0, '三国', '', '123456', '1', '', '', '', 'http://www.yinjianquan.cn:7777/images/zhegeliang.jpg'),
+(109, 13800000000, '黄忠', '老黄', 0, '三国', '', '123456', '1', '', '', '', 'http://www.yinjianquan.cn:7777/images/huangzhong.jpg'),
+(110, 15013795536, '虞姬', '小鸡', 20, '西楚', 'vue,react', '123456', '2', '', 'aaa', '1', 'http://www.yinjianquan.cn:7777/images/yuji.jpg'),
+(111, 15013795533, '大乔', '三国美女', 20, '三国', 'vue,react', '123456', '2', '', 'aaa', '1', 'http://www.yinjianquan.cn:7777/images/daqiao.jpg');
 
 --
 -- Indexes for dumped tables
