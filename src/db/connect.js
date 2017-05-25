@@ -4,8 +4,8 @@ const createConnect = (app) => {
         connectionLimit: 100,
         host: 'localhost',
         user: 'root',
-        password: '',
-        database: 'wt-manage'
+        password: 'a32883288',
+        database: 'myquan'
     });
     pool.getConnection(function (err, connection) {
         if (err) {
